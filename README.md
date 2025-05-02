@@ -1,5 +1,5 @@
 # CLI Chatbot using LLM
-_A project by S. M. Tahsin Zaman **_
+_A project by S. M. Tahsin Zaman_
 
 ## 📋 Task Description
 The objective of this project was to **build a CLI-based chatbot** (no graphical user interface) using a **DeepSeek R1 distilled LLM**.
